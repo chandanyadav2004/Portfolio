@@ -32,7 +32,7 @@ export const AboutMe = () => {
               </a>
 
               <a
-                href="assets/Chandanresume.pdf"  download={'Chandanresume.pdf'}
+                href="Chandanresume.pdf"  download={'Chandanresume.pdf'}
                 className="px-6 py-2 rounded-full border border-primary hover:bg-primary/10 transition-colors duration-300"
               >
                 Download CV
