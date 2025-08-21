@@ -51,6 +51,16 @@ const projects = [
     demoUrl: "#",
     githubUrl: "https://github.com/chandanyadav2004/News-App-Api",
   },
+  {
+    id: 6,
+    title: "PingUp",
+    description:
+      "Responsive website features like social media.",
+    image: "/images/Project1.png",
+    tags: ["React", "Node", "Express", "MongoDB", "Clerk", "Inngest"],
+    demoUrl: "#",
+    githubUrl: "https://github.com/chandanyadav2004/pingup",
+  },
 ];
 
 export const ProjectSection = () => {
