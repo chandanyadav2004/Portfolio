@@ -19,7 +19,7 @@ const skills = [
   { name: "Git/GitHub", level: 90, category: "tools" },
   { name: "Web Strom", level: 70, category: "tools" },
   { name: "Figma", level: 85, category: "tools" },
-  { name: "VS COde", level: 95, category: "tools" },
+  { name: "VS Code", level: 95, category: "tools" },
 
   // Database
   { name: "MongoDB", level: 70, category: "database" },

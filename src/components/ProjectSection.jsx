@@ -56,7 +56,7 @@ const projects = [
     title: "PingUp",
     description:
       "Responsive website features like social media.",
-    image: "/images/Project1.png",
+    image: "/images/Project6.jpg",
     tags: ["React", "Node", "Express", "MongoDB", "Clerk", "Inngest"],
     demoUrl: "#",
     githubUrl: "https://github.com/chandanyadav2004/pingup",
